@@ -2,7 +2,7 @@
 
 Shared reading list for our IEEE conference paper *SinusCare: An Uncertainty-Aware Adaptive Machine Learning Framework for Personalized Sinusitis Risk Assessment*.
 
-**20 papers**, grouped by theme. Source: Consensus search export (Oct 2026). Full author lists, abstracts and the sign-off columns are in [`https://github.com/TanviSharma132874/DWDM_ResearchPaper/blob/main/Research_content/Papers.csv`](papers.csv).
+**20 papers**, grouped by theme. Source: Consensus search export (Oct 2026). Full author lists, abstracts and the sign-off columns are in [`https://github.com/TanviSharma132874/DWDM_ResearchPaper/blob/main/Research_content/Papers.csv`](https://github.com/TanviSharma132874/DWDM_ResearchPaper/blob/main/Research_content/Papers.csv).
 
 ## How to use this list
 
