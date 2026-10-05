@@ -1,0 +1,162 @@
+# Summary: Using Machine Learning Models to Diagnose Chronic Rhinosinusitis
+
+*Arun M. Raghavan et al., American Journal of Rhinology & Allergy, 2025*
+
+---
+
+## Goal
+
+Develop a machine learning model that predicts Chronic Rhinosinusitis (CRS) before specialist evaluation using patient-generated health data. The model predicts:
+
+1. Sinonasal inflammation on CT scan (Lund-Mackay Score ≥ 5)
+2. Probable CRS (LMS ≥ 5 and at least two cardinal CRS symptoms)
+
+This is a binary classification problem.
+
+---
+
+## Data
+
+- **Source:** Electronic patient-generated health data collected before clinical evaluation at a tertiary rhinology clinic.
+- **Patients:** 543 individuals who later underwent CT imaging.
+- **Features:** 57 predictors extracted from questionnaires and patient health records.
+- **Data Type:**
+  - Demographics
+  - Symptom information
+  - Patient-reported outcome measures (PROMs)
+  - Medical history
+  - Health-related questionnaire responses
+
+### Target Variables
+
+#### Primary Endpoint
+- Lund-Mackay Score (LMS) ≥ 5
+
+#### Secondary Endpoint
+- LMS ≥ 5
+- Plus ≥ 2 cardinal CRS symptoms
+
+---
+
+## Machine Learning Models Used
+
+### 1. Random Forest Classifier
+- Ensemble learning method
+- Multiple decision trees
+
+### 2. Deep Neural Network (DNN)
+- Multi-layer neural network
+- Learns complex patterns
+
+### 3. XGBoost
+- Gradient boosting algorithm
+- Best performing model in the study
+
+---
+
+## Methodology
+
+### Data Preparation
+- Extracted 57 predictors
+- Processed patient-generated health data
+
+### Dataset Split
+- Training Set: 90%
+- Testing Set: 10%
+
+### Validation
+- Cross-validation performed
+- Compared against traditional linear regression
+
+---
+
+## Results
+
+### Best Model: XGBoost
+
+### Primary Outcome (LMS ≥ 5)
+
+| Metric | Score |
+|----------|----------|
+| AUC | 71.3% |
+| Accuracy | 74.5% |
+| Sensitivity | 38.9% |
+| Specificity | 91.9% |
+
+### Secondary Outcome (Probable CRS)
+
+| Metric | Score |
+|----------|----------|
+| AUC | 79.8% |
+| Accuracy | 85.5% |
+| Sensitivity | 36.4% |
+| Specificity | 97.7% |
+
+---
+
+## Important Findings
+
+- Patient-generated health data can be used to predict CRS.
+- XGBoost outperformed Random Forest, DNN, and Linear Regression.
+- High specificity indicates strong ability to identify patients without CRS.
+- Machine learning can support early screening and referral decisions.
+- Could reduce unnecessary CT scans and specialist visits.
+
+---
+
+## Dataset Information
+
+### Dataset Availability
+
+The original dataset is **not publicly available**.
+
+Researchers stated that:
+
+> Data sharing requests must be made to the corresponding author and are subject to University of Washington regulations.
+
+### Dataset Characteristics
+
+| Property | Value |
+|----------|--------|
+| Patients | 543 |
+| Features | 57 |
+| Labels | Binary Classification |
+| Data Source | Patient-generated health data |
+| Validation | Cross-validation |
+| Best Model | XGBoost |
+
+---
+
+## Advantages
+
+- Non-invasive screening approach
+- Uses readily available patient information
+- Improves clinical decision support
+- Reduces unnecessary diagnostic procedures
+
+---
+
+## Limitations
+
+- Single-center dataset
+- Moderate sensitivity
+- Dataset not publicly available
+- Requires external validation on larger populations
+
+---
+
+## Conclusion
+
+The study demonstrated that machine learning models, especially XGBoost, can accurately predict probable Chronic Rhinosinusitis using patient-generated health data before specialist evaluation. This approach may help clinicians prioritize referrals, optimize imaging utilization, and improve early diagnosis of CRS.
+
+---
+
+## Reference
+
+Raghavan AM, Aboueisha MA, Prohnitchi I, Cvancara DJ, Humphreys IM, Jafari A, Abuzeid WM.
+
+**Using Machine Learning Models to Diagnose Chronic Rhinosinusitis: Analysis of Pre-Treatment Patient-Generated Health Data to Predict Cardinal Symptoms and Sinonasal Inflammation.**
+
+American Journal of Rhinology & Allergy, 2025.
+
+DOI: 10.1177/19458924251322081
