@@ -1,0 +1,13 @@
+path,filename,class_name,y_prob,conf,category,actual_class,predicted_class
+DATASET_SININUSE/Healthy classification/CT-scan-of-paranasal-sinus-3-months-postoperative-coronal-view-showing-well-ventilated.PNG,CT-scan-of-paranasal-sinus-3-months-postoperative-coronal-view-showing-well-ventilated.PNG,Healthy,0.5876477,0.5876477,FP,Healthy,Unhealthy
+DATASET_SININUSE/Unhealthy classification/CT-scan-Coronal-view-of-a-Stesioneuroblastoma-case-1.JPEG,CT-scan-Coronal-view-of-a-Stesioneuroblastoma-case-1.JPEG,Unhealthy,0.69678265,0.69678265,TP,Unhealthy,Unhealthy
+DATASET_SININUSE/Unhealthy classification/Chronic-rhinosinusitis-with-nasal-polyps-CRSwNP-Coronal-CT-scan-of-CRSwNP-showing(1).PNG,Chronic-rhinosinusitis-with-nasal-polyps-CRSwNP-Coronal-CT-scan-of-CRSwNP-showing(1).PNG,Unhealthy,0.61307436,0.61307436,TP,Unhealthy,Unhealthy
+DATASET_SININUSE/Unhealthy classification/Chronic-rhinosinusitis-with-nasal-polyps-CRSwNP-Coronal-CT-scan-of-CRSwNP-showing.PNG,Chronic-rhinosinusitis-with-nasal-polyps-CRSwNP-Coronal-CT-scan-of-CRSwNP-showing.PNG,Unhealthy,0.61307436,0.61307436,TP,Unhealthy,Unhealthy
+DATASET_SININUSE/Unhealthy classification/M2400719-CT_of_Sinuses.JPEG,M2400719-CT_of_Sinuses.JPEG,Unhealthy,0.71336883,0.71336883,TP,Unhealthy,Unhealthy
+DATASET_SININUSE/Unhealthy classification/Repeat-axial-CT-scan-hospital-day-4-shows-a-right-inferior-orbital-abscess.JPEG,Repeat-axial-CT-scan-hospital-day-4-shows-a-right-inferior-orbital-abscess.JPEG,Unhealthy,0.54004157,0.54004157,TP,Unhealthy,Unhealthy
+DATASET_SININUSE/Unhealthy classification/ct-scan-deviated-septum-sinuses1.JPEG,ct-scan-deviated-septum-sinuses1.JPEG,Unhealthy,0.516055,0.516055,TP,Unhealthy,Unhealthy
+DATASET_SININUSE/Unhealthy classification/mucoperiosteal-hypertrophy-chronic-sinusitis-2 2.JPEG,mucoperiosteal-hypertrophy-chronic-sinusitis-2 2.JPEG,Unhealthy,0.68914795,0.68914795,TP,Unhealthy,Unhealthy
+DATASET_SININUSE/Unhealthy classification/p1882-f4.JPEG,p1882-f4.JPEG,Unhealthy,0.7885069,0.7885069,TP,Unhealthy,Unhealthy
+DATASET_SININUSE/Unhealthy classification/sinonasal-polyposis-with-secondary-fungal-infection-1.JPEG,sinonasal-polyposis-with-secondary-fungal-infection-1.JPEG,Unhealthy,0.60161585,0.60161585,TP,Unhealthy,Unhealthy
+DATASET_SININUSE/Unhealthy classification/sinonasal-polyposis-with-secondary-fungal-infection-1.PNG,sinonasal-polyposis-with-secondary-fungal-infection-1.PNG,Unhealthy,0.642257,0.642257,TP,Unhealthy,Unhealthy
+DATASET_SININUSE/Unhealthy classification/subperiosteal-orbital-abscess.JPEG,subperiosteal-orbital-abscess.JPEG,Unhealthy,0.6747097,0.6747097,TP,Unhealthy,Unhealthy

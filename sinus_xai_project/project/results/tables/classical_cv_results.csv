@@ -1,0 +1,31 @@
+model,variant,cv_roc_auc,n_features,best_params
+logistic_regression,full,0.4656125356125356,2048,{'clf__C': 1.0}
+logistic_regression,kbest,0.5311396011396011,64,{'clf__C': 1.0}
+logistic_regression,l1,0.3728205128205129,64,{'clf__C': 1.0}
+logistic_regression,rf,0.47518518518518527,64,{'clf__C': 1.0}
+logistic_regression,xgb,0.5184045584045583,64,{'clf__C': 0.01}
+logistic_regression,pca,0.4604558404558404,85,{'clf__C': 1.0}
+random_forest,full,0.3661253561253561,2048,"{'clf__max_depth': None, 'clf__n_estimators': 200}"
+random_forest,kbest,0.4927065527065527,64,"{'clf__max_depth': None, 'clf__n_estimators': 200}"
+random_forest,l1,0.392051282051282,64,"{'clf__max_depth': 5, 'clf__n_estimators': 200}"
+random_forest,rf,0.4391452991452991,64,"{'clf__max_depth': None, 'clf__n_estimators': 200}"
+random_forest,xgb,0.45891737891737894,64,"{'clf__max_depth': None, 'clf__n_estimators': 200}"
+random_forest,pca,0.43011396011396014,85,"{'clf__max_depth': 5, 'clf__n_estimators': 200}"
+svm,full,0.5099430199430199,2048,{'clf__C': 10.0}
+svm,kbest,0.7098005698005698,64,{'clf__C': 10.0}
+svm,l1,0.5286609686609687,64,{'clf__C': 0.1}
+svm,rf,0.616923076923077,64,{'clf__C': 0.1}
+svm,xgb,0.6455840455840456,64,{'clf__C': 0.1}
+svm,pca,0.4947008547008548,85,{'clf__C': 10.0}
+xgboost,full,0.46535612535612536,2048,"{'clf__learning_rate': 0.05, 'clf__max_depth': 3, 'clf__n_estimators': 100}"
+xgboost,kbest,0.43754985754985753,64,"{'clf__learning_rate': 0.05, 'clf__max_depth': 2, 'clf__n_estimators': 100}"
+xgboost,l1,0.3415099715099716,64,"{'clf__learning_rate': 0.05, 'clf__max_depth': 3, 'clf__n_estimators': 100}"
+xgboost,rf,0.43210826210826214,64,"{'clf__learning_rate': 0.05, 'clf__max_depth': 3, 'clf__n_estimators': 100}"
+xgboost,xgb,0.49170940170940175,64,"{'clf__learning_rate': 0.05, 'clf__max_depth': 3, 'clf__n_estimators': 100}"
+xgboost,pca,0.49823361823361817,85,"{'clf__learning_rate': 0.05, 'clf__max_depth': 2, 'clf__n_estimators': 100}"
+lightgbm,full,0.5098860398860399,2048,"{'clf__n_estimators': 100, 'clf__num_leaves': 7}"
+lightgbm,kbest,0.5235327635327635,64,"{'clf__n_estimators': 100, 'clf__num_leaves': 7}"
+lightgbm,l1,0.42333333333333345,64,"{'clf__n_estimators': 100, 'clf__num_leaves': 15}"
+lightgbm,rf,0.41695156695156693,64,"{'clf__n_estimators': 100, 'clf__num_leaves': 15}"
+lightgbm,xgb,0.478034188034188,64,"{'clf__n_estimators': 100, 'clf__num_leaves': 15}"
+lightgbm,pca,0.4374643874643874,85,"{'clf__n_estimators': 100, 'clf__num_leaves': 7}"

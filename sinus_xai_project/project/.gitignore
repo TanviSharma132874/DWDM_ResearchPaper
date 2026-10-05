@@ -1,0 +1,38 @@
+# environments / caches
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.DS_Store
+
+# secrets
+.env
+*.env
+credentials*.json
+
+# dataset (license unknown -> never commit images or archives)
+data/raw/*
+!data/raw/.gitkeep
+*.rar
+*.zip
+*.7z
+
+# generated data (splits.csv is small and kept for reproducibility)
+data/processed/embeddings/
+
+# model weights / large artifacts
+*.pth
+*.pt
+*.ckpt
+*.joblib
+*.npz
+models/*
+!models/.gitkeep
+
+# temporary files
+*.tmp
+*.log

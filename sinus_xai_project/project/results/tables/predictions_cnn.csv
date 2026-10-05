@@ -1,0 +1,125 @@
+model,variant,split,path,y_true,y_prob
+resnet50,cnn,val,DATASET_SININUSE/Healthy classification/CT-scan-of-paranasal-sinus-axial-view-showing-normal-ethmoid-sinus.PNG,0,0.6352304220199585
+resnet50,cnn,val,DATASET_SININUSE/Healthy classification/a-CT-scan-in-coronal-plane-shows-the-normal-paranasal-sinus-anatomy-The-maxillary.PNG,0,0.6477436423301697
+resnet50,cnn,val,DATASET_SININUSE/Unhealthy classification/Broderick_figure01a.JPEG,1,0.5388830900192261
+resnet50,cnn,val,DATASET_SININUSE/Unhealthy classification/CT-scan-coronal-view-of-a-neurofibroma-case-5.JPEG,1,0.6452404260635376
+resnet50,cnn,val,DATASET_SININUSE/Unhealthy classification/Hyperattenuation-in-the-right-maxillary-sinus.PNG,1,0.6002647280693054
+resnet50,cnn,val,DATASET_SININUSE/Unhealthy classification/agger-nasi-cell-with-sinusitis.JPEG,1,0.5837889909744263
+resnet50,cnn,val,DATASET_SININUSE/Unhealthy classification/nasal-septal-haematoma-1.JPEG,1,0.6152814626693726
+resnet50,cnn,val,DATASET_SININUSE/Unhealthy classification/petrenko2-1.JPEG,1,0.5212770104408264
+resnet50,cnn,val,DATASET_SININUSE/Unhealthy classification/pott-puffy-tumor-14 2.JPEG,1,0.6505547165870667
+resnet50,cnn,val,DATASET_SININUSE/Unhealthy classification/pott-puffy-tumor-14 4.JPEG,1,0.7175449728965759
+resnet50,cnn,val,DATASET_SININUSE/Unhealthy classification/pott-puffy-tumor-14 5.JPEG,1,0.7865458726882935
+resnet50,cnn,val,DATASET_SININUSE/Unhealthy classification/silent-sinus-syndrome-15 3.JPEG,1,0.5193466544151306
+resnet50,cnn,val,DATASET_SININUSE/Unhealthy classification/silent-sinus-syndrome-15 4.JPEG,1,0.6073752641677856
+resnet50,cnn,val,DATASET_SININUSE/Unhealthy classification/silent-sinus-syndrome-15(1).JPEG,1,0.4465888440608978
+resnet50,cnn,val,DATASET_SININUSE/Unhealthy classification/silent-sinus-syndrome-15.JPEG,1,0.4465888440608978
+resnet50,cnn,val,DATASET_SININUSE/Unhealthy classification/traumatic-dural-venous-sinus-thrombosis 2.JPEG,1,0.6898338198661804
+resnet50,cnn,val,DATASET_SININUSE/Unhealthy classification/traumatic-dural-venous-sinus-thrombosis 3.JPEG,1,0.6543440222740173
+resnet50,cnn,val,DATASET_SININUSE/Unhealthy classification/traumatic-dural-venous-sinus-thrombosis 4.JPEG,1,0.8085162043571472
+resnet50,cnn,val,DATASET_SININUSE/Unhealthy classification/traumatic-dural-venous-sinus-thrombosis.JPEG,1,0.7828441262245178
+resnet50,cnn,test,DATASET_SININUSE/Healthy classification/CT-scan-of-paranasal-sinus-3-months-postoperative-coronal-view-showing-well-ventilated.PNG,0,0.5876476764678955
+resnet50,cnn,test,DATASET_SININUSE/Unhealthy classification/CT-scan-Coronal-view-of-a-Stesioneuroblastoma-case-1.JPEG,1,0.696782648563385
+resnet50,cnn,test,DATASET_SININUSE/Unhealthy classification/Chronic-rhinosinusitis-with-nasal-polyps-CRSwNP-Coronal-CT-scan-of-CRSwNP-showing(1).PNG,1,0.6130743622779846
+resnet50,cnn,test,DATASET_SININUSE/Unhealthy classification/Chronic-rhinosinusitis-with-nasal-polyps-CRSwNP-Coronal-CT-scan-of-CRSwNP-showing.PNG,1,0.6130743622779846
+resnet50,cnn,test,DATASET_SININUSE/Unhealthy classification/M2400719-CT_of_Sinuses.JPEG,1,0.713368833065033
+resnet50,cnn,test,DATASET_SININUSE/Unhealthy classification/Repeat-axial-CT-scan-hospital-day-4-shows-a-right-inferior-orbital-abscess.JPEG,1,0.5400415658950806
+resnet50,cnn,test,DATASET_SININUSE/Unhealthy classification/ct-scan-deviated-septum-sinuses1.JPEG,1,0.5160549879074097
+resnet50,cnn,test,DATASET_SININUSE/Unhealthy classification/mucoperiosteal-hypertrophy-chronic-sinusitis-2 2.JPEG,1,0.68914794921875
+resnet50,cnn,test,DATASET_SININUSE/Unhealthy classification/p1882-f4.JPEG,1,0.7885069251060486
+resnet50,cnn,test,DATASET_SININUSE/Unhealthy classification/sinonasal-polyposis-with-secondary-fungal-infection-1.JPEG,1,0.601615846157074
+resnet50,cnn,test,DATASET_SININUSE/Unhealthy classification/sinonasal-polyposis-with-secondary-fungal-infection-1.PNG,1,0.6422569751739502
+resnet50,cnn,test,DATASET_SININUSE/Unhealthy classification/subperiosteal-orbital-abscess.JPEG,1,0.674709677696228
+efficientnet_b0,cnn,val,DATASET_SININUSE/Healthy classification/CT-scan-of-paranasal-sinus-axial-view-showing-normal-ethmoid-sinus.PNG,0,0.49271658062934875
+efficientnet_b0,cnn,val,DATASET_SININUSE/Healthy classification/a-CT-scan-in-coronal-plane-shows-the-normal-paranasal-sinus-anatomy-The-maxillary.PNG,0,0.7195857763290405
+efficientnet_b0,cnn,val,DATASET_SININUSE/Unhealthy classification/Broderick_figure01a.JPEG,1,0.5224629640579224
+efficientnet_b0,cnn,val,DATASET_SININUSE/Unhealthy classification/CT-scan-coronal-view-of-a-neurofibroma-case-5.JPEG,1,0.5518963932991028
+efficientnet_b0,cnn,val,DATASET_SININUSE/Unhealthy classification/Hyperattenuation-in-the-right-maxillary-sinus.PNG,1,0.7990738153457642
+efficientnet_b0,cnn,val,DATASET_SININUSE/Unhealthy classification/agger-nasi-cell-with-sinusitis.JPEG,1,0.7315055727958679
+efficientnet_b0,cnn,val,DATASET_SININUSE/Unhealthy classification/nasal-septal-haematoma-1.JPEG,1,0.7849382162094116
+efficientnet_b0,cnn,val,DATASET_SININUSE/Unhealthy classification/petrenko2-1.JPEG,1,0.5134316682815552
+efficientnet_b0,cnn,val,DATASET_SININUSE/Unhealthy classification/pott-puffy-tumor-14 2.JPEG,1,0.446950763463974
+efficientnet_b0,cnn,val,DATASET_SININUSE/Unhealthy classification/pott-puffy-tumor-14 4.JPEG,1,0.9897067546844482
+efficientnet_b0,cnn,val,DATASET_SININUSE/Unhealthy classification/pott-puffy-tumor-14 5.JPEG,1,0.966331958770752
+efficientnet_b0,cnn,val,DATASET_SININUSE/Unhealthy classification/silent-sinus-syndrome-15 3.JPEG,1,0.8464823365211487
+efficientnet_b0,cnn,val,DATASET_SININUSE/Unhealthy classification/silent-sinus-syndrome-15 4.JPEG,1,0.9667547345161438
+efficientnet_b0,cnn,val,DATASET_SININUSE/Unhealthy classification/silent-sinus-syndrome-15(1).JPEG,1,0.7162692546844482
+efficientnet_b0,cnn,val,DATASET_SININUSE/Unhealthy classification/silent-sinus-syndrome-15.JPEG,1,0.7162692546844482
+efficientnet_b0,cnn,val,DATASET_SININUSE/Unhealthy classification/traumatic-dural-venous-sinus-thrombosis 2.JPEG,1,0.27777156233787537
+efficientnet_b0,cnn,val,DATASET_SININUSE/Unhealthy classification/traumatic-dural-venous-sinus-thrombosis 3.JPEG,1,0.9352652430534363
+efficientnet_b0,cnn,val,DATASET_SININUSE/Unhealthy classification/traumatic-dural-venous-sinus-thrombosis 4.JPEG,1,0.9414145350456238
+efficientnet_b0,cnn,val,DATASET_SININUSE/Unhealthy classification/traumatic-dural-venous-sinus-thrombosis.JPEG,1,0.857926070690155
+efficientnet_b0,cnn,test,DATASET_SININUSE/Healthy classification/CT-scan-of-paranasal-sinus-3-months-postoperative-coronal-view-showing-well-ventilated.PNG,0,0.7373961806297302
+efficientnet_b0,cnn,test,DATASET_SININUSE/Unhealthy classification/CT-scan-Coronal-view-of-a-Stesioneuroblastoma-case-1.JPEG,1,0.8317421674728394
+efficientnet_b0,cnn,test,DATASET_SININUSE/Unhealthy classification/Chronic-rhinosinusitis-with-nasal-polyps-CRSwNP-Coronal-CT-scan-of-CRSwNP-showing(1).PNG,1,0.9126736521720886
+efficientnet_b0,cnn,test,DATASET_SININUSE/Unhealthy classification/Chronic-rhinosinusitis-with-nasal-polyps-CRSwNP-Coronal-CT-scan-of-CRSwNP-showing.PNG,1,0.9126736521720886
+efficientnet_b0,cnn,test,DATASET_SININUSE/Unhealthy classification/M2400719-CT_of_Sinuses.JPEG,1,0.9485712051391602
+efficientnet_b0,cnn,test,DATASET_SININUSE/Unhealthy classification/Repeat-axial-CT-scan-hospital-day-4-shows-a-right-inferior-orbital-abscess.JPEG,1,0.8571996688842773
+efficientnet_b0,cnn,test,DATASET_SININUSE/Unhealthy classification/ct-scan-deviated-septum-sinuses1.JPEG,1,0.3852730095386505
+efficientnet_b0,cnn,test,DATASET_SININUSE/Unhealthy classification/mucoperiosteal-hypertrophy-chronic-sinusitis-2 2.JPEG,1,0.9855323433876038
+efficientnet_b0,cnn,test,DATASET_SININUSE/Unhealthy classification/p1882-f4.JPEG,1,0.9308229684829712
+efficientnet_b0,cnn,test,DATASET_SININUSE/Unhealthy classification/sinonasal-polyposis-with-secondary-fungal-infection-1.JPEG,1,0.8530769944190979
+efficientnet_b0,cnn,test,DATASET_SININUSE/Unhealthy classification/sinonasal-polyposis-with-secondary-fungal-infection-1.PNG,1,0.950981616973877
+efficientnet_b0,cnn,test,DATASET_SININUSE/Unhealthy classification/subperiosteal-orbital-abscess.JPEG,1,0.8826102018356323
+resnet50_frozen,cnn,val,DATASET_SININUSE/Healthy classification/CT-scan-of-paranasal-sinus-axial-view-showing-normal-ethmoid-sinus.PNG,0,0.6352304220199585
+resnet50_frozen,cnn,val,DATASET_SININUSE/Healthy classification/a-CT-scan-in-coronal-plane-shows-the-normal-paranasal-sinus-anatomy-The-maxillary.PNG,0,0.6477436423301697
+resnet50_frozen,cnn,val,DATASET_SININUSE/Unhealthy classification/Broderick_figure01a.JPEG,1,0.5388830900192261
+resnet50_frozen,cnn,val,DATASET_SININUSE/Unhealthy classification/CT-scan-coronal-view-of-a-neurofibroma-case-5.JPEG,1,0.6452404260635376
+resnet50_frozen,cnn,val,DATASET_SININUSE/Unhealthy classification/Hyperattenuation-in-the-right-maxillary-sinus.PNG,1,0.6002647280693054
+resnet50_frozen,cnn,val,DATASET_SININUSE/Unhealthy classification/agger-nasi-cell-with-sinusitis.JPEG,1,0.5837889909744263
+resnet50_frozen,cnn,val,DATASET_SININUSE/Unhealthy classification/nasal-septal-haematoma-1.JPEG,1,0.6152814626693726
+resnet50_frozen,cnn,val,DATASET_SININUSE/Unhealthy classification/petrenko2-1.JPEG,1,0.5212770104408264
+resnet50_frozen,cnn,val,DATASET_SININUSE/Unhealthy classification/pott-puffy-tumor-14 2.JPEG,1,0.6505547165870667
+resnet50_frozen,cnn,val,DATASET_SININUSE/Unhealthy classification/pott-puffy-tumor-14 4.JPEG,1,0.7175449728965759
+resnet50_frozen,cnn,val,DATASET_SININUSE/Unhealthy classification/pott-puffy-tumor-14 5.JPEG,1,0.7865458726882935
+resnet50_frozen,cnn,val,DATASET_SININUSE/Unhealthy classification/silent-sinus-syndrome-15 3.JPEG,1,0.5193466544151306
+resnet50_frozen,cnn,val,DATASET_SININUSE/Unhealthy classification/silent-sinus-syndrome-15 4.JPEG,1,0.6073752641677856
+resnet50_frozen,cnn,val,DATASET_SININUSE/Unhealthy classification/silent-sinus-syndrome-15(1).JPEG,1,0.4465888440608978
+resnet50_frozen,cnn,val,DATASET_SININUSE/Unhealthy classification/silent-sinus-syndrome-15.JPEG,1,0.4465888440608978
+resnet50_frozen,cnn,val,DATASET_SININUSE/Unhealthy classification/traumatic-dural-venous-sinus-thrombosis 2.JPEG,1,0.6898338198661804
+resnet50_frozen,cnn,val,DATASET_SININUSE/Unhealthy classification/traumatic-dural-venous-sinus-thrombosis 3.JPEG,1,0.6543440222740173
+resnet50_frozen,cnn,val,DATASET_SININUSE/Unhealthy classification/traumatic-dural-venous-sinus-thrombosis 4.JPEG,1,0.8085162043571472
+resnet50_frozen,cnn,val,DATASET_SININUSE/Unhealthy classification/traumatic-dural-venous-sinus-thrombosis.JPEG,1,0.7828441262245178
+resnet50_frozen,cnn,test,DATASET_SININUSE/Healthy classification/CT-scan-of-paranasal-sinus-3-months-postoperative-coronal-view-showing-well-ventilated.PNG,0,0.5876476764678955
+resnet50_frozen,cnn,test,DATASET_SININUSE/Unhealthy classification/CT-scan-Coronal-view-of-a-Stesioneuroblastoma-case-1.JPEG,1,0.696782648563385
+resnet50_frozen,cnn,test,DATASET_SININUSE/Unhealthy classification/Chronic-rhinosinusitis-with-nasal-polyps-CRSwNP-Coronal-CT-scan-of-CRSwNP-showing(1).PNG,1,0.6130743622779846
+resnet50_frozen,cnn,test,DATASET_SININUSE/Unhealthy classification/Chronic-rhinosinusitis-with-nasal-polyps-CRSwNP-Coronal-CT-scan-of-CRSwNP-showing.PNG,1,0.6130743622779846
+resnet50_frozen,cnn,test,DATASET_SININUSE/Unhealthy classification/M2400719-CT_of_Sinuses.JPEG,1,0.713368833065033
+resnet50_frozen,cnn,test,DATASET_SININUSE/Unhealthy classification/Repeat-axial-CT-scan-hospital-day-4-shows-a-right-inferior-orbital-abscess.JPEG,1,0.5400415658950806
+resnet50_frozen,cnn,test,DATASET_SININUSE/Unhealthy classification/ct-scan-deviated-septum-sinuses1.JPEG,1,0.5160549879074097
+resnet50_frozen,cnn,test,DATASET_SININUSE/Unhealthy classification/mucoperiosteal-hypertrophy-chronic-sinusitis-2 2.JPEG,1,0.68914794921875
+resnet50_frozen,cnn,test,DATASET_SININUSE/Unhealthy classification/p1882-f4.JPEG,1,0.7885069251060486
+resnet50_frozen,cnn,test,DATASET_SININUSE/Unhealthy classification/sinonasal-polyposis-with-secondary-fungal-infection-1.JPEG,1,0.601615846157074
+resnet50_frozen,cnn,test,DATASET_SININUSE/Unhealthy classification/sinonasal-polyposis-with-secondary-fungal-infection-1.PNG,1,0.6422569751739502
+resnet50_frozen,cnn,test,DATASET_SININUSE/Unhealthy classification/subperiosteal-orbital-abscess.JPEG,1,0.674709677696228
+resnet50_finetuned,cnn,val,DATASET_SININUSE/Healthy classification/CT-scan-of-paranasal-sinus-axial-view-showing-normal-ethmoid-sinus.PNG,0,0.7031143307685852
+resnet50_finetuned,cnn,val,DATASET_SININUSE/Healthy classification/a-CT-scan-in-coronal-plane-shows-the-normal-paranasal-sinus-anatomy-The-maxillary.PNG,0,0.7461714744567871
+resnet50_finetuned,cnn,val,DATASET_SININUSE/Unhealthy classification/Broderick_figure01a.JPEG,1,0.5483546853065491
+resnet50_finetuned,cnn,val,DATASET_SININUSE/Unhealthy classification/CT-scan-coronal-view-of-a-neurofibroma-case-5.JPEG,1,0.7396025657653809
+resnet50_finetuned,cnn,val,DATASET_SININUSE/Unhealthy classification/Hyperattenuation-in-the-right-maxillary-sinus.PNG,1,0.6315269470214844
+resnet50_finetuned,cnn,val,DATASET_SININUSE/Unhealthy classification/agger-nasi-cell-with-sinusitis.JPEG,1,0.6606308221817017
+resnet50_finetuned,cnn,val,DATASET_SININUSE/Unhealthy classification/nasal-septal-haematoma-1.JPEG,1,0.7117511630058289
+resnet50_finetuned,cnn,val,DATASET_SININUSE/Unhealthy classification/petrenko2-1.JPEG,1,0.49289315938949585
+resnet50_finetuned,cnn,val,DATASET_SININUSE/Unhealthy classification/pott-puffy-tumor-14 2.JPEG,1,0.7023859620094299
+resnet50_finetuned,cnn,val,DATASET_SININUSE/Unhealthy classification/pott-puffy-tumor-14 4.JPEG,1,0.7898678183555603
+resnet50_finetuned,cnn,val,DATASET_SININUSE/Unhealthy classification/pott-puffy-tumor-14 5.JPEG,1,0.8589420318603516
+resnet50_finetuned,cnn,val,DATASET_SININUSE/Unhealthy classification/silent-sinus-syndrome-15 3.JPEG,1,0.4997047483921051
+resnet50_finetuned,cnn,val,DATASET_SININUSE/Unhealthy classification/silent-sinus-syndrome-15 4.JPEG,1,0.6589231491088867
+resnet50_finetuned,cnn,val,DATASET_SININUSE/Unhealthy classification/silent-sinus-syndrome-15(1).JPEG,1,0.45477494597435
+resnet50_finetuned,cnn,val,DATASET_SININUSE/Unhealthy classification/silent-sinus-syndrome-15.JPEG,1,0.45477494597435
+resnet50_finetuned,cnn,val,DATASET_SININUSE/Unhealthy classification/traumatic-dural-venous-sinus-thrombosis 2.JPEG,1,0.7093120217323303
+resnet50_finetuned,cnn,val,DATASET_SININUSE/Unhealthy classification/traumatic-dural-venous-sinus-thrombosis 3.JPEG,1,0.7192894220352173
+resnet50_finetuned,cnn,val,DATASET_SININUSE/Unhealthy classification/traumatic-dural-venous-sinus-thrombosis 4.JPEG,1,0.870007336139679
+resnet50_finetuned,cnn,val,DATASET_SININUSE/Unhealthy classification/traumatic-dural-venous-sinus-thrombosis.JPEG,1,0.8498404026031494
+resnet50_finetuned,cnn,test,DATASET_SININUSE/Healthy classification/CT-scan-of-paranasal-sinus-3-months-postoperative-coronal-view-showing-well-ventilated.PNG,0,0.6146843433380127
+resnet50_finetuned,cnn,test,DATASET_SININUSE/Unhealthy classification/CT-scan-Coronal-view-of-a-Stesioneuroblastoma-case-1.JPEG,1,0.7832716703414917
+resnet50_finetuned,cnn,test,DATASET_SININUSE/Unhealthy classification/Chronic-rhinosinusitis-with-nasal-polyps-CRSwNP-Coronal-CT-scan-of-CRSwNP-showing(1).PNG,1,0.6641519069671631
+resnet50_finetuned,cnn,test,DATASET_SININUSE/Unhealthy classification/Chronic-rhinosinusitis-with-nasal-polyps-CRSwNP-Coronal-CT-scan-of-CRSwNP-showing.PNG,1,0.6641519069671631
+resnet50_finetuned,cnn,test,DATASET_SININUSE/Unhealthy classification/M2400719-CT_of_Sinuses.JPEG,1,0.7641276121139526
+resnet50_finetuned,cnn,test,DATASET_SININUSE/Unhealthy classification/Repeat-axial-CT-scan-hospital-day-4-shows-a-right-inferior-orbital-abscess.JPEG,1,0.5824137926101685
+resnet50_finetuned,cnn,test,DATASET_SININUSE/Unhealthy classification/ct-scan-deviated-septum-sinuses1.JPEG,1,0.5184275507926941
+resnet50_finetuned,cnn,test,DATASET_SININUSE/Unhealthy classification/mucoperiosteal-hypertrophy-chronic-sinusitis-2 2.JPEG,1,0.7357696294784546
+resnet50_finetuned,cnn,test,DATASET_SININUSE/Unhealthy classification/p1882-f4.JPEG,1,0.8649463057518005
+resnet50_finetuned,cnn,test,DATASET_SININUSE/Unhealthy classification/sinonasal-polyposis-with-secondary-fungal-infection-1.JPEG,1,0.6416297554969788
+resnet50_finetuned,cnn,test,DATASET_SININUSE/Unhealthy classification/sinonasal-polyposis-with-secondary-fungal-infection-1.PNG,1,0.6858691573143005
+resnet50_finetuned,cnn,test,DATASET_SININUSE/Unhealthy classification/subperiosteal-orbital-abscess.JPEG,1,0.7687053084373474
